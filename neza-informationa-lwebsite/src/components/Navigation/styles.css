@@ -136,7 +136,7 @@ button:hover {
   .nav__item2,
   .nav__item3,
   .nav__item4{
-  margin-bottom: 30%;
+  margin-bottom: 20%;
  /* gap: 0.1rem; */
  margin-left: -20%;
   
@@ -151,7 +151,7 @@ button:hover {
     margin-left:-17.5% ;
   }
 .button{
-margin-right: 22%;
+margin-right: 21.6%;
 margin-top: -5%;
 margin-bottom: 30%;
 }
